@@ -1,0 +1,225 @@
+*{
+  /* background-color: rgb(244, 245, 245); */
+  margin: 0;
+  padding: 0;
+}
+#root {
+  /* text-align: center;
+  box-sizing: border-box; */
+  /* background-color: aqua; */
+  background-color: rgb(244, 245, 245); 
+}
+#main{
+  display: flex;
+  margin: 50px 90px;
+  justify-content: space-between;
+}
+.navv{
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  padding: 0 40px;
+  /* margin-top: -0px; */
+  box-sizing: border-box ;
+  color: black;
+  font-weight: 500;
+  font-size: large;
+  background-color: white;
+}
+.link{
+  margin-right: 58px;
+  background-color: white;
+  font-weight: 600;
+  font-size: 14px;
+ 
+}
+.disney_nav{
+  width: 105px; 
+}
+#search{
+  width: 150px;
+  height: 35px;
+  border: 0.5px solid rgb(226, 224, 224);
+  background-color: white;
+  padding-left: 5px;
+}
+#search_div{
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+#search_image{
+  width: 30px;
+  background-color: white;
+  border-radius: 100%;
+}
+#btn{
+  width: 40px;
+  height: 35px;
+  border: 0.5px solid rgb(226, 224, 224);
+  background-color: white;
+
+}
+#carouselImage{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 0;
+}
+#carousel{
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+#carouselTitle{
+position: relative;
+z-index: 4;
+padding: 250px 0 0 50px;
+}
+#Carousel_header{
+  width: 500px;
+  margin-bottom: 25px;
+  box-sizing: border-box;
+}
+#Carousel_text{
+  width: 550px;
+  font-weight: 400;
+}
+
+#tt{
+  background-color: white;
+  width:330px;
+  padding: 0 30px;
+  margin: -15px 10px;
+  box-sizing: border-box;
+  height: 170px;
+}
+#tt2{
+  background-color: white;
+  width:335px;
+  padding: 0 15px;
+  margin: -5px 1px;
+  box-sizing: border-box;
+  height: 175px;
+}
+#ttt{
+  background-color: rgb(28, 28, 39);
+  width:330px;
+  padding: 0 30px;
+  margin: -5px 1px;
+  box-sizing: border-box;
+  height: 190px;
+}
+#tt4{
+  background-color: white;
+  width:330px;
+  padding: 0 30px;
+  margin: -15px 10px;
+  box-sizing: border-box;
+  height: 125px;
+  font-size: 15px;
+}
+
+
+#title{
+  font-size: larger;
+  padding-top: 30px;
+}
+#genreee{
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 5;
+  width: 270px;
+}
+#genre{
+  margin-top: 12px;
+  font-size: 15px;
+  font-weight: 5;
+  width: 270px;
+}
+#genree{
+  width: 300px;
+  font-size: large;
+  margin: 10px 0 5px;
+  font-weight: 600;
+}
+#img_2{
+  width: 330px;
+  margin: 10px; 
+  height: 330px; 
+}
+.News_date{
+  font-size: 11px;
+  color: rgb(88, 87, 87);
+  padding-top: 10px;
+}
+#img_3{
+  width: 335px;
+}
+.header{
+  text-align: center;
+  padding-top: 50px;
+}
+#header2{
+  text-align: center;
+  background-color: rgb(11, 11, 65);
+}
+#img_4{
+  width: 330px;
+  height: 320px;
+}
+/* #date{
+  font
+} */
+.part_four{
+  background-color: rgb(11, 11, 65);
+  height: 620px;
+  color: white;
+  padding: 60px 10px 0;
+}
+#img_5{
+  width: 260px;
+  border-radius: 10px;
+  border: 0.5px solid rgb(243, 242, 242);
+}
+.Card5_main_div{
+  background-color: white;
+  margin-top: 100px;
+  /* height: 1000px; */
+}
+#main_div{
+  display: flex;
+  margin: 50px 350px;
+  justify-content: space-between;
+}
+#img_6{
+  margin-top: 50px;
+  width: 170px;
+}
+#img_7{
+  width: 255px;
+  border-radius: 5px;
+}
+#img_8{
+  width: 200px;
+  object-fit: cover;
+  height: 116px;
+}
+#cardCont{
+
+  width: 200px;
+  height: 116px;
+}
+#main_1{
+  display: flex;
+  margin: 0px 100px;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+}
