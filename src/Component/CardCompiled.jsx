@@ -4,12 +4,13 @@ import CardComponent3 from "./Card3"
 import CardComponent4 from "./Card4"
 import CardComponent5 from "./Card5"
 import Card from "./Card_imageCompiled"
+import pixar_best from "../assets/Images/pixar_best.jpeg"
 
 function CardCompiled(){
 
   const Cards = [
     {
-      Img:'./src/assets/Images/pixar_best.jpeg',
+      Img: pixar_best,
       title: '"Pixar Best"',
       genre:  'The ultimate best album of Pixar music! CD release/ digital distribution on March 20th'
     }, 
