@@ -5,6 +5,26 @@ import CardComponent4 from "./Card4"
 import CardComponent5 from "./Card5"
 import Card from "./Card_imageCompiled"
 import pixar_best from "../assets/Images/pixar_best.jpeg"
+import classic from "../assets/Images/Classic.jpeg"
+import minnie_mouse from "../assets/Images/minnie_mouse.jpeg"
+import Donald2 from "../assets/Images/Donald2.png"
+import Car from "../assets/Images/Car.jpeg"
+import little_doll from "../assets/Images/little_doll.png"
+import winnie from "../assets/Images/winnie.jpeg"
+import princess from "../assets/Images/princess.jpeg"
+import disneyplus from "../assets/Images/disneyplus.jpeg"
+import Star_wars1 from "../assets/Images/Star_Wars1.jpeg"
+import Iwaju from "../assets/Images/Iwaju.jpeg"
+import Disneymovies from "../assets/Images/Disneymovies.jpeg"
+import teddy1 from "../assets/Images/teddy1.jpeg"
+import chair from "../assets/Images/chair.jpeg"
+import doggy from "../assets/Images/doggy.jpeg"
+import teddy from "../assets/Images/teddy.jpeg"
+import chipdale2 from "../assets/Images/chip&dale2.jpeg"
+import rapunzel from "../assets/Images/rapunzel.jpeg"
+import duckybunny from "../assets/Images/ducky&bunny.jpeg"
+import rabbit from "../assets/Images/rabbit.jpeg"
+import tonsuke from "../assets/Images/tonsuke.jpeg"
 
 function CardCompiled(){
 
@@ -15,17 +35,17 @@ function CardCompiled(){
       genre:  'The ultimate best album of Pixar music! CD release/ digital distribution on March 20th'
     }, 
     {
-      Img : './src/assets/Images/Classic.jpeg',
+      Img : classic,
       title : 'Held nationwide from May to June!',
       genre : '"Disney on classic ~ Gift of Dreams and Magic 2024" Orchestral performance of many popular works'
     },
     {
-      Img : './src/assets/Images/minnie_mouse.jpeg',
+      Img : minnie_mouse,
       title : 'Focus on Minnie in March',
       genre :  'Enjoy spring while being inspired by the fashionable, fun-loving, and always positive Minnie Mouse'
     },
     {
-      Img : './src/assets/Images/Donald2.png',
+      Img : Donald2,
       title : 'disney palpalooza',
       genre :   'Tokyo Disneyland "Disney Palpalooza" 2nd "Donalds Quacky Duck" held'
     }, 
@@ -33,26 +53,26 @@ function CardCompiled(){
 
   const Cards2 = [
     {
-      Img : './src/assets/Images/Car.jpeg',
+      Img : Car,
       title : 'NEWS',
       genre :   'Movies that you cant miss are coming out one after another! Delivering mind-blowing entertainment on Disney Channel',
       date: 'March 25, 2024'
     },
     
     {
-      Img : './src/assets/Images/little_doll.png',
+      Img : little_doll,
       title : 'NEWS',
       genre :   '"Disney My Little Doll" A garden of happiness full of blooming white clover ',
       date: 'March 25, 2024'
     },
     {
-      Img : './src/assets/Images/winnie.jpeg',
+      Img : winnie,
       title : 'NEWS',
       genre :   'Disney "Winnie the Pooh " Ohisama Market <Held in Ibaraki/Mito from 3/28>',
       date: 'March 25, 2024'
     },
     {
-      Img : './src/assets/Images/princess.jpeg',
+      Img : princess,
       title : 'NEWS',
       genre :   '"The Princess and the Frog", a movie full of wonderful music and magic, will be on Disney Channel from 8:00 p.m on Saturday, April 6th! ',
       date: 'March 25, 2024'
@@ -61,24 +81,24 @@ function CardCompiled(){
 
   const Cards3 = [
     {
-      Img : './src/assets/Images/disneyplus.jpeg',
+      Img : disneyplus,
       title : `This month's recommendation works`,
       genre :  'Introducing the distribution schedule of Disney Plus works. New movies and original works are appearing one aafter another!',
     },
     
     {
-      Img : './src/assets/Images/Star_wars1.jpEg',
+      Img : Star_wars1,
       title : 'final season',
       genre :   '"Star Wars: The Bad Batch" Season 3 is now available exclusively. The story is finally coming to an end',
     
     },
     {
-      Img : './src/assets/Images/Iwaju.jpeg',
+      Img : Iwaju,
       title : 'original series',
       genre :   'All 6 episodes of "Iwaju" are now available exclusively! A science fiction animation set in Lagos, Nigeria in the near future.',
     },
     {
-      Img : './src/assets/Images/Disneymovies.jpeg',
+      Img : Disneymovies,
       title : 'disney plus',
       genre :   'Disney official video distribution service. In addition to masterpieces and popular works, you can also watch foreign dramas and Japenese content as much as you like.',
     },
@@ -86,23 +106,23 @@ function CardCompiled(){
 
   const Cards4 = [
     {
-      Img : './src/assets/Images/teddy1.jpeg',
+      Img : teddy1,
       title : `Chip & Dale birthday commemorative goods`,
     },
     
     {
-      Img : './src/assets/Images/chair.jpeg',
+      Img : chair,
       title : 'Causal Mickey items',
       genre :   'URBAN RESEARCH and others',
     
     },
     {
-      Img : './src/assets/Images/doggy.jpeg',
+      Img : doggy,
       title : 'Recommended gift items for the welcome season',
       genre :   '',
     },
     {
-      Img : './src/assets/Images/teddy.jpeg',
+      Img : teddy,
       title : 'Disney Plastic Gamaguchi and others ',
       genre :   'Chara Marche',
     },
@@ -110,29 +130,29 @@ function CardCompiled(){
   
   const Cards5 = [
     {
-      Img : './src/assets/Images/chip&dale2.jpeg',
+      Img : chipdale2,
       title : `chip and dale`,
       genre :  'Cute chipmunk character. Chip has a black nose and one tooth in the middle, and Da...',
     },
     
     {
-      Img : './src/assets/Images/rapunzel.jpeg',
+      Img : rapunzel,
       title : 'rapunzel',
       genre :   'Rapunzel, a vivacious girl with long blonde hair who lives in a high tower, is yearning...',
     
     },
     {
-      Img : './src/assets/Images/ducky&bunny.jpeg',
+      Img : duckybunny,
       title : 'ducky and bunny',
       genre :   'A stuffed animal that was a prize for shooting at the mobile amuzement park...',
     },
     {
-      Img : './src/assets/Images/rabbit.jpeg',
+      Img : rabbit,
       title : 'rabbit',
       genre :   'A rabbit wo lives in the 100 Acre wood with Pooh and his friends. Athough he ha..',
     },
     {
-      Img : './src/assets/Images/tonsuke.jpeg',
+      Img : tonsuke,
       title : 'Tonsuke',
       genre :   'A curious rabbit who appears in ``Bambi" (1942). bambi playmate. They have a...',
     },
