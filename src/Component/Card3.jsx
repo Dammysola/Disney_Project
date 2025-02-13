@@ -9,7 +9,7 @@ function CardComponent3(Props){
             <img id="img_4" src={Props.Img} alt="" />
                 
            <div id="ttt">
-                <p id="title">{Props.title}</p>
+                <p id="titlee">{Props.title}</p>
                 <h4 id="genreee">{Props.genre}</h4>
             </div>
         </div>

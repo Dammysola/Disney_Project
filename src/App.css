@@ -131,9 +131,14 @@ padding: 250px 0 0 50px;
   font-size: larger;
   padding-top: 30px;
 }
+#titlee{
+  font-size: medium;
+  font-weight: 600;
+  padding-top: 30px;
+}
 #genreee{
-  margin-top: 20px;
-  font-size: 15px;
+  margin-top: 10px;
+  font-size: 14px;
   font-weight: 5;
   width: 270px;
 }
@@ -179,7 +184,7 @@ padding: 250px 0 0 50px;
 } */
 .part_four{
   background-color: rgb(11, 11, 65);
-  height: 620px;
+  height: 700px;
   color: white;
   padding: 60px 10px 0;
 }
@@ -218,7 +223,7 @@ padding: 250px 0 0 50px;
 }
 #main_1{
   display: flex;
-  margin: 0px 100px;
+  margin: 0px 100px 0 150px;
   flex-wrap: wrap;
   column-gap: 20px;
   row-gap: 20px;
